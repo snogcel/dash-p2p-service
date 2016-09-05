@@ -1,0 +1,28 @@
+{
+  "name": "dash-p2p-service",
+  "version": "0.0.1",
+  "description": "service for interface with dash p2p network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snogcel/dash-p2p-service.git"
+  },
+  "keywords": [
+    "dash",
+    "bitcore-lib-dash",
+    "bitcore-p2p-dash"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snogcel/dash-p2p-service/issues"
+  },
+  "homepage": "https://github.com/snogcel/dash-p2p-service#readme",
+  "dependencies": {
+    "bitcore-lib-dash": "^0.13.18",
+    "bitcore-p2p-dash": "^1.1.2"
+  }
+}
